@@ -52,4 +52,6 @@
 
 调研结果: <https://github.com/SCU-SCST-SAST-MR/feng/blob/master/results/results.md>
 
+项目计划书模板: <https://github.com/SCU-SCST-SAST-MR/feng/blob/master/template/来自未来的“风”项目计划书模板.docx?raw=true>
+
 项目计划书提交邮箱: <wwxu99@stu.suda.edu.cn>
